@@ -1,0 +1,47 @@
+{
+  "name": "Business Connect",
+  "short_name": "Business Connect",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f1f1",
+  "theme_color": "transparent",
+  "icons": [
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+    }, 
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+    },
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-128x128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+    },
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+    },
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-152x152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+    },
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-384x384.png",
+    "sizes": "384x384",
+    "type": "image/png"
+    },
+    {
+    "src": "https://businessconnect.com.tr/wp-content/uploads/2020/06/Businessconnect-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    }
+   ],
+  "splash_pages": null
+}
